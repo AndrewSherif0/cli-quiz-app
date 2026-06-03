@@ -1,0 +1,35 @@
+[
+    {
+        "name": "andrew",
+        "type": "Short Answer",
+        "question": "how",
+        "correctAnswer": "yes"
+    },
+    {
+        "name": "Andrew",
+        "type": "Multiple Choice",
+        "options": [
+            "yes",
+            "no"
+            
+        ],
+        "question": "how do u dO?",
+        "correctAnswer": "no "
+    },
+    {
+        "name": "and",
+        "type": "True/False",
+        "question": "what",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": "True"
+    },
+    {
+        "name": "andrew",
+        "type": "Short Answer",
+        "question": "what do u do?",
+        "correctAnswer": "yes"
+    }
+]
